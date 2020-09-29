@@ -29,3 +29,6 @@
 </p>
 
 ⭐️ From [duard](https://github.com/duard)
+
+<!--START_SECTION:duard-->
+<!--END_SECTION:duard-->
