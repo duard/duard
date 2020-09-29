@@ -2,16 +2,15 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🌱 &nbsp; Learning more about TypeScript
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks
+- 🌱 &nbsp; Learning more about TypeScript with Angular and NestJs
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | C++ | R (Statistics) | MATLAB
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
-- 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+- 💻 &nbsp; Typescript | Javascript 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | Angular
+- 🛢 &nbsp; SQL
+- 🔧 &nbsp; Git | Markdown 
 
 <br/>
 
