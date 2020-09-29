@@ -18,7 +18,7 @@
 
 <br/>
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AVS1508&show_icons=true)](https://github.com/AVS1508)
+[![duard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=duard&show_icons=true)](https://github.com/duard)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
