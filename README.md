@@ -26,8 +26,12 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/duardbr/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-duard-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:duard.developer@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-duard.developer@gmail.com-blue?style=flat-square&logo=gmail"></a>
-![](https://komarev.com/ghpvc/?username=duard&color=yellow)
 </p>
+<p>
+ ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+</p>
+
+![](https://komarev.com/ghpvc/?username=duard&color=yellow)
 
 ⭐️ From [duard](https://github.com/duard)
 
