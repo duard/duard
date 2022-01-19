@@ -28,7 +28,7 @@
 <a href="mailto:duard.developer@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-duard.developer@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 <p>
- ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/duard/count.svg)
 </p>
 
 ![](https://komarev.com/ghpvc/?username=duard&color=yellow)
