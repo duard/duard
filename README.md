@@ -29,6 +29,7 @@
 </p>
 
 ⭐️ From [duard](https://github.com/duard)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
 <!--START_SECTION:duard-->
 <!--END_SECTION:duard-->
