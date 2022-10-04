@@ -8,7 +8,6 @@
 
 <br/>
 
-[![duard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=duard&show_icons=true)](https://github.com/duard)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
