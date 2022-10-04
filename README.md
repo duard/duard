@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks
-- 🌱 &nbsp; Learning more about TypeScript with Angular and NestJs
+- 🌱 &nbsp; Learning more about TypeScript with Angular/React/Vue and NestJs
 
 
 <br/>
